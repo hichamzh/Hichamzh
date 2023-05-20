@@ -12,10 +12,10 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 - Web Developer Training at Simplon Marseille - November 2022 to June 2023
 
 ## Technical Skills 👨‍💻
-- Programming Languages: 
-    <code> HTML5 ⚡️</code>
-    <code>CSS3 🎨</code>
-    <code>JavaScript 💻</code>
+- Programming Languages: <br>
+    <code> HTML5 ⚡️</code><br>
+    <code>CSS3 🎨</code><br>
+    <code>JavaScript 💻</code><br>
     <code>PHP 🐘</code>
 - Development Tools: 
     - Git 🐙
@@ -24,7 +24,7 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
     - MySQL 🗄️
 ## Ongoing Learning
 - Frameworks:
-  <code>React ⚛️</code> 
+  <code>React ⚛️</code> <br>
 - PHP Framework:  
    <code>Symfony 🎵</code> 
 
