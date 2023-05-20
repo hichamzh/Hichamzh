@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hichamzh&langs_count=10&layout=donut&hide_progress=true)](https://github.com/hichamzh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hichamzh&langs_count=10&hide_progress=true)](https://github.com/hichamzh/github-readme-stats)
+<!-- &layout=donut -->
 # Hicham Zouit
 
 ## About me ✍️
