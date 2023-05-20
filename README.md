@@ -13,20 +13,20 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 
 ## Technical Skills 👨‍💻
 - Programming Languages: 
-    - HTML5 ⚡️
-    - CSS3 🎨
-    - JavaScript 💻
-    - PHP 🐘
+    <code> HTML5 ⚡️</code>
+    <code>CSS3 🎨</code>
+    <code>JavaScript 💻</code>
+    <code>PHP 🐘</code>
 - Development Tools: 
     - Git 🐙
-    <code>- VS Code</code> 🖥️
+    - VS Code
 - Databases: 
     - MySQL 🗄️
 ## Ongoing Learning
-<code>- Frameworks: </code> 
-  <code>  - React ⚛️</code> 
-<code>- PHP Framework: </code> 
-   <code> - Symfony 🎵</code> 
+- Frameworks:
+  <code>React ⚛️</code> 
+- PHP Framework:  
+   <code>Symfony 🎵</code> 
 
 ## Current Projects 🏗️🗃️
 - Interactive quiz project with PHP and MVC: An interactive quiz with different question categories, answer options, and scoring system, developed using the MVC architecture with PHP.
