@@ -32,8 +32,8 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
    <code>Symfony 🎵</code> 
 
 ## Current Projects 🏗️🗃️
-- Interactive quiz project with PHP and MVC: An interactive quiz with different question categories, answer options, and scoring system, developed using the MVC architecture with PHP.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hichamzh&repo=Quizz)](https://github.com/hichamzh/Quizz)
+- Interactive quiz project with PHP and MVC: An interactive quiz with different question categories, answer options, and scoring system, developed using the MVC architecture with PHP.<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hichamzh&repo=Quizz)](https://github.com/hichamzh/Quizz)<br>
 ## Education 🏫📚
 - Web Developer Training at Simplon Marseille - November 2022 to June 2023
 - BTS Negotiation and Digitalization of Customer Relationship (NDRC obtained)🎓📜
