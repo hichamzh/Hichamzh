@@ -19,7 +19,7 @@ I am Hicham Zouit, a passionate web developer. I am 20 years old and currently u
     - VS Code 🖥️
 - Databases: 
     - MySQL 🗄️
-##Ongoing Learning
+## Ongoing Learning
 - Frameworks: 
     - React ⚛️
 - PHP Framework: 
