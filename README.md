@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hicham Zouit
+<h1>Hicham Zouit</h1>
 
 ## About me ✍️
 I am Hicham Zouit, a passionate web developer. I am 20 years old and currently undergoing web developer training at Simplon Marseille since late November.<br>I am excited to apply my application development skills in an apprenticeship as an application designer and developer. I am looking for an apprenticeship starting in September.
@@ -23,7 +23,7 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 - Databases: 
     - MySQL 🗄️
 ## Ongoing Learning
-- Frameworks:
+- Frameworks:<br>
   <code>React ⚛️</code> <br>
 - PHP Framework:  
    <code>Symfony 🎵</code> 
@@ -40,3 +40,9 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 - [LinkedIn](https://www.linkedin.com/in/hicham-zouit-2a46701b9/) 💼
 
 Feel free to contact me via email: zouit.hicham1@gmail.com 📧
+
+<style>
+    h1{
+        color: greenyellow;
+    }
+</style>
