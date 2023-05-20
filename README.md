@@ -13,10 +13,12 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 
 ## Technical Skills 👨‍💻
 - Programming Languages: <br>
+<div style="padding: 5px;">
     <code> HTML5 ⚡️</code><br>
     <code>CSS3 🎨</code><br>
     <code>JavaScript 💻</code><br>
     <code>PHP 🐘</code>
+</div>
 - Development Tools: 
     - Git 🐙
     - VS Code
