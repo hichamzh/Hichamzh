@@ -6,6 +6,7 @@
 I am Hicham Zouit, a passionate web developer. I am 20 years old and currently undergoing web developer training at Simplon Marseille since late November. I am excited to apply my application development skills in an internship as an application designer and developer.
 
 I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)📚 and playing football. 📺⚽️
+
 I enjoy also building PCs component by component. 🔧🖥
 
 ## Experience
