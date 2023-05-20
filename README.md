@@ -41,7 +41,9 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 ## Links 🌐
 - [LinkedIn](https://www.linkedin.com/in/hicham-zouit-2a46701b9/) 💼
 
-![Hicham Zouit GitHub stats](https://github-readme-stats.vercel.app/api?username=hichamzh&hide=contribs,prs&show_icons=true)
+![Hicham Zouit GitHub stats](https://github-readme-stats.vercel.app/api?username=hichamzh&hide=contribs,prs&show_icons=true&theme=merko#gh-dark-mode-only)
+![Hicham Zouit GitHub stats](https://github-readme-stats.vercel.app/api?username=hichamzh&hide=contribs,prs&show_icons=true&theme=radical#gh-light-mode-only)
+
 
 
 Feel free to contact me via email : zouit.hicham1@gmail.com 📧
