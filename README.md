@@ -19,14 +19,14 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
     - PHP 🐘
 - Development Tools: 
     - Git 🐙
-    - VS Code 🖥️
+    <code>- VS Code</code> 🖥️
 - Databases: 
     - MySQL 🗄️
 ## Ongoing Learning
-- Frameworks: 
-    - React ⚛️
-- PHP Framework: 
-    - Symfony 🎵
+<code>- Frameworks: </code> 
+  <code>  - React ⚛️</code> 
+<code>- PHP Framework: </code> 
+   <code> - Symfony 🎵</code> 
 
 ## Current Projects 🏗️🗃️
 - Interactive quiz project with PHP and MVC: An interactive quiz with different question categories, answer options, and scoring system, developed using the MVC architecture with PHP.
