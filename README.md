@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Hicham Zouit
+## Hicham Zouit
 
 ## About me ✍️
 I am Hicham Zouit, a passionate web developer. I am 20 years old and currently undergoing web developer training at Simplon Marseille since late November.<br>I am excited to apply my application development skills in an apprenticeship as an application designer and developer. I am looking for an apprenticeship starting in September.
