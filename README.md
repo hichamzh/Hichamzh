@@ -43,6 +43,6 @@ Feel free to contact me via email: zouit.hicham1@gmail.com 📧
 
 <style>
     h1{
-        color: greenyellow;
+        color: green;
     }
 </style>
