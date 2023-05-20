@@ -1,16 +1,38 @@
 ### Hi there 👋
 
+# Hicham Zouit
 
-**hichamzh/Hichamzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am Hicham Zouit, a passionate web developer. I am 20 years old and currently undergoing web developer training at Simplon Marseille since late November. I am excited to apply my application development skills in an internship as an application designer and developer.
 
-Here are some ideas to get you started:
+## Experience
+- Web Developer Training at Simplon Marseille - November 2022 to June 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Technical Skills
+- Programming Languages: 
+    - HTML5 ⚡️
+    - CSS3 🎨
+    - JavaScript 💻
+    - PHP 🐘
+- Development Tools: 
+    - Git 🐙
+    - VS Code 🖥️
+- Databases: 
+    - MySQL 🗄️
+##Ongoing Learning
+- Frameworks: 
+    - React ⚛️
+- PHP Framework: 
+    - Symfony 🎵
 
+## Current Projects
+- Interactive quiz project with PHP and MVC: An interactive quiz with different question categories, answer options, and scoring system, developed using the MVC architecture with PHP.
+
+## Education
+- Web Developer Training at Simplon Marseille - November 2022 to June 2023
+- Seeking a 18-month internship as an Application Designer and Developer in September in Marseille
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/hicham-zouit-2a46701b9/) 💼
+
+Feel free to contact me via email: zouit.hicham1@gmail.com 📧
