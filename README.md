@@ -2,7 +2,7 @@
 
 # Hicham Zouit
 
-## About me
+## About me ✍️
 I am Hicham Zouit, a passionate web developer. I am 20 years old and currently undergoing web developer training at Simplon Marseille since late November. I am excited to apply my application development skills in an internship as an application designer and developer.
 
 I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)📚 and playing football. 📺⚽️
@@ -10,7 +10,7 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 ## Experience
 - Web Developer Training at Simplon Marseille - November 2022 to June 2023
 
-## Technical Skills
+## Technical Skills 👨‍💻
 - Programming Languages: 
     - HTML5 ⚡️
     - CSS3 🎨
@@ -27,14 +27,15 @@ I enjoy reading and watching manga (especially One Piece👒 and Bleach🗡️)�
 - PHP Framework: 
     - Symfony 🎵
 
-## Current Projects
+## Current Projects 🏗️🗃️
 - Interactive quiz project with PHP and MVC: An interactive quiz with different question categories, answer options, and scoring system, developed using the MVC architecture with PHP.
 
-## Education
+## Education 🏫📚
 - Web Developer Training at Simplon Marseille - November 2022 to June 2023
+- BTS Negotiation and Digitalization of Customer Relationship (NDRC obtained)🎓📜
 - Seeking a 18-month internship as an Application Designer and Developer in September in Marseille
 
-## Links
+## Links 🌐
 - [LinkedIn](https://www.linkedin.com/in/hicham-zouit-2a46701b9/) 💼
 
 Feel free to contact me via email: zouit.hicham1@gmail.com 📧
