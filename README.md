@@ -27,9 +27,9 @@ I enjoy reading and watching manga (especially One Piece👒 and Pokémon)📚 a
   
 ## Ongoing Learning
 - Frameworks:<br>
-  <code>React ⚛️</code> <br>
+  <code>Vue js 3</code> <br>
 - PHP Framework:  
-   <code>Symfony 🎵</code> 
+   <code>Laravel</code> 
 
 ## Current Projects 🏗️🗃️
 - Interactive quiz project with PHP and MVC: An interactive quiz with different question categories, answer options, and scoring system, developed using the MVC architecture with PHP.<br><br>
