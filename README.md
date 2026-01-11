@@ -19,7 +19,7 @@ I specialize in building **modern, responsive, and well-structured web interface
 - ⚛️ Working daily with **React, Next.js & Tailwind CSS**
 - 🧠 I like clean architecture, reusable components & good UX
 - 🏗️ Experience with **real production projects**
-- ⚽ Football enthusiast & former player
+- ⚽ Football enthusiast, former player & football coach (FC La Castellane)
 - 🖥️ PC building enthusiast
 - 📚 Manga & anime fan (One Piece 👒, Pokémon)
 
