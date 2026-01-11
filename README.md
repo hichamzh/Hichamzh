@@ -81,8 +81,8 @@ A web project around the anime universe:
 ## 🎓 Education & Training
 
 - **POE Front-End Developer** — Dawan (current)
-- Web Developer Training — Simplon Marseille
-- BTS NDRC (Negotiation & Digital Customer Relationship)
+- **Web Developer Diploma (RNCP)** — Simplon Marseille
+- **BTS NDRC** (Negotiation & Digital Customer Relationship)
 
 ---
 
@@ -99,7 +99,3 @@ A web project around the anime universe:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hicham-zouit-2a46701b9/)
 - 📧 Email: **zouit.hicham1@gmail.com**
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hichamzh&show_icons=true&theme=merko&hide=contribs,prs)
