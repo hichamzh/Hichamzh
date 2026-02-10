@@ -44,6 +44,18 @@ I specialize in building **modern, responsive, and well-structured web interface
 
 ## 🏗️ Projects
 
+### ⚽ Football Club Website – *FC La Castellane*  
+**Currently in production**
+
+- Club presentation
+- Sponsors & partners
+- Future-oriented structure (gallery, projects, documents)
+- Built with scalability in mind
+
+🔗 https://fclacastellane.vercel.app
+
+---
+
 ### 🏫 Private Primary School Website – *École L’Olivier*  
 **March 2025 – Real client project**
 
@@ -53,16 +65,6 @@ Design and development of a professional school website:
 - Optimized for accessibility and usability
 
 🔗 https://ecoleprimairepriveelolivier.fr/
-
----
-
-### ⚽ Football Club Website – *FC La Castellane*  
-**Currently in production**
-
-- Club presentation
-- Sponsors & partners
-- Future-oriented structure (gallery, projects, documents)
-- Built with scalability in mind
 
 ---
 
